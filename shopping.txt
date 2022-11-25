@@ -3,3 +3,4 @@ obst
 brot
 kase
 wurst
+bier
