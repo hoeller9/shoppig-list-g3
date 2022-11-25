@@ -1,4 +1,5 @@
 gemuese
 obst
 brot
-kases
+kase
+wurst
